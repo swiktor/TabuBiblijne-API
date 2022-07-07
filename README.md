@@ -1,2 +1,2 @@
-# TB
-Silnik PHP do aplikacji na androida - Tabu Biblijne
+# TabuBiblijne - PHP API
+API PHP do gry na androida - Tabu Biblijne
